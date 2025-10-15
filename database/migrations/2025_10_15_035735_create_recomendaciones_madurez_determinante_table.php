@@ -11,7 +11,7 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('recomendaciones_nivel_madurez_determinante', function (Blueprint $table) {
+        Schema::create('recomendaciones_madurez_determinante', function (Blueprint $table) {
             $table->id();
             $table->foreignId('nivel_madurez_id')->constrained('niveles_madurez')->restrictOnDelete();
             $table->foreignId('esfera_id')->constrained('esferas')->restrictOnDelete();
@@ -26,6 +26,6 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('recomendaciones_nivel_madurez_determinante');
+        Schema::dropIfExists('recomendaciones_madurez_determinante');
     }
 };
