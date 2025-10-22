@@ -10,6 +10,7 @@ use Filament\Pages\Dashboard;
 use Filament\Panel;
 use Filament\PanelProvider;
 use Filament\Support\Colors\Color;
+use Filament\Support\Enums\Width;
 use Filament\Widgets\AccountWidget;
 use Filament\Widgets\FilamentInfoWidget;
 use Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse;
@@ -29,7 +30,12 @@ class AdministradorPanelProvider extends PanelProvider
             ->path('administrador')
             ->login()
             ->colors([
-                'primary' => Color::Amber,
+                'primary' => Color::hex('#00BF63'),
+                'secondary' => Color::hex('#00BF63'),
+                'success' => Color::hex('#00BF63'),
+                'warning' => Color::hex('#00BF63'),
+                'danger' => Color::hex('#00BF63'),
+                'info' => Color::hex('#00BF63'),
             ])
             ->discoverResources(in: app_path('Filament/Resources'), for: 'App\Filament\Resources')
             ->discoverPages(in: app_path('Filament/Pages'), for: 'App\Filament\Pages')
@@ -39,7 +45,7 @@ class AdministradorPanelProvider extends PanelProvider
             ->discoverWidgets(in: app_path('Filament/Widgets'), for: 'App\Filament\Widgets')
             ->widgets([
                 AccountWidget::class,
-                FilamentInfoWidget::class,
+                // FilamentInfoWidget::class,
             ])
             ->middleware([
                 EncryptCookies::class,
@@ -54,6 +60,17 @@ class AdministradorPanelProvider extends PanelProvider
             ])
             ->authMiddleware([
                 Authenticate::class,
-            ]);
+            ])
+            ->font('Poppins')
+            ->brandName('Cempre')
+            ->brandLogo(asset('img/administrador/etitc-logo-2x.png'))
+            ->brandLogoHeight('4rem')
+            ->favicon(asset('img/logo_icon.png'))
+            ->brandName('Cempre')
+            ->sidebarCollapsibleOnDesktop()   // ✅ sidebar puede colapsarse en desktop
+            ->sidebarFullyCollapsibleOnDesktop() // (opcional) colapsar completamente
+            ->maxContentWidth(Width::Full) // opcional: que el contenido se expanda
+            ;
+
     }
 }

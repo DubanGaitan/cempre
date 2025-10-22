@@ -23,4 +23,9 @@ class Pregunta extends Model
     {
         return $this->belongsTo(Estado::class);
     }
+
+    public function opcionesPregunta()
+    {
+        return $this->hasMany(OpcionPregunta::class);
+    }
 }
