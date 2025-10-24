@@ -13,17 +13,17 @@ class EsferasSeeder extends Seeder
      */
     public function run(): void
     {
-        Esfera::create([
-            'nombre_esfera' => 'Cadena de valor sostenible',
-            'estado_id' => 1,
-        ]);
-        Esfera::create([
-            'nombre_esfera' => 'Estrategia',
-            'estado_id' => 1,
-        ]);
-        Esfera::create([
-            'nombre_esfera' => 'Modelo de negocio',
-            'estado_id' => 1,
-        ]);
+        $esferas = [
+            'Cadena de valor sostenible',
+            'Estrategia',
+            'Modelo de negocio',
+        ];
+
+        foreach ($esferas as $esfera){
+            Esfera::create([
+                'nombre_esfera' => $esfera,
+                'estado_id' => 1,
+            ]);
+        }
     }
 }

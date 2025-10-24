@@ -1,0 +1,32 @@
+[
+    {
+        "nombre_nivel": "Cadena de valor circular",
+        "descripcion": "La empresa con una cadena de valor sostenible está en el más alto grado de circularidad. Ha desarrollado un pensamiento de ciclo de vida que guía su estrategia de sostenibilidad con un propósito superior marcado por la circularidad y el bien común. Este pensamiento de ciclo de vida y proposito superior moldea su estrategia empresarial y está perfectamente alineado con su modelo de negocio y las operaciones que lo concretan. La empresa se ha vuelto un referente en circularidad porque involucra toda su cadena de valor para generar valor y porsperidad para todos",
+        "puntaje_min": 86,
+        "puntaje_max": 100
+    },
+    {
+        "nombre_nivel": "Estrategia circular",
+        "descripcion": "Las empresas con estrategia circular se encuentran en un nivel superior de circularidad que empieza a mostrar oportunidades de negocio en los productos circulares. La economía circular se ha vuelto estratégica por la gestión de materias primas críticas, el reconocimiento y gestión del valor perdido en los residuos y por las posibilidades de acceder a nuevos mercados y diversificar su portafolio con productos circulares.",
+        "puntaje_min": 76,
+        "puntaje_max": 85
+    },
+    {
+        "nombre_nivel": "Gestión circular",
+        "descripcion": "Las empresas en gestión circular van por buen camino en un nivel intermedio de circularidad. Han pasado del cumplimiento normativo para el control de la contaminación y el respeto de los derechos humanos a estrategias de gestión guiadas por estándares de calidad o gestión ambiental pero que se limitan a enfoques centrados en la empresa. Aún no cuentan con las perpectiva circular del ciclo de vida pero avanzan en conocer sus flujos, administrarlos internamente, gestionar sus proveedores circulares y gestionar sus resduos con un enfoque centrado en la valorización, el tratamiento y la dispocición final.",
+        "puntaje_min": 51,
+        "puntaje_max": 75
+    },
+    {
+        "nombre_nivel": "Cumplimiento",
+        "descripcion": "Las empresas en cumplimiento están en un nivel bajo de circularidad y este es moldeado por en mero cumplimiento de la normativa nacional e internacional en caso de empresas exportadoras. Su objetivo circular es contar con liciencia para operar. Le cumple estrictamente a las autoridades y clientes para mentener las relciones comerciales y los permisos de operación.",
+        "puntaje_min": 26,
+        "puntaje_max": 50
+    },
+    {
+        "nombre_nivel": "Defensiva",
+        "descripcion": "Las empresas defensivas estan en el nivel más bajo de circularidad al no contar con elementos circulares en sus modeos de negocio ni la mínima intención de incorporarlos. Para ellas la circularidad no es asunto suyo, sino que le corresponde al estado o a las demás empresas. Prefieren seguir en la ineficiencia lineal y pasar desapercibida mientras genere utilidades.",        
+        "puntaje_min": 0,
+        "puntaje_max": 25
+    }
+]

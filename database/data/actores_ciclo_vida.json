@@ -1,0 +1,32 @@
+[
+    {
+        "nombre": "Productor",
+        "descripcion":"Quien pone en el mercado (en Colombia) bienes envasados/empacados de su marca, o importa esos bienes, o es titular de la marca que aparece en los envases.",
+        "estado_id": 1
+    },
+    {
+        "nombre": "Distribuidor",
+        "descripcion":"empresa que comercialice y/o distribuya, al por mayor o al detal, productos o bienes envasados o empacados, en cualquiera de las fases de comercialización (incluidas ventas a distancia o por medios electrónicos).",
+        "estado_id": 1
+    },
+    {
+        "nombre": "Fabricante",
+        "descripcion":"Empresa que fabrique, importe envases y empaques o provea materias primas para la fabricación de envases y empaques, con fines de comercialización.",
+        "estado_id": 1
+    },
+    {
+        "nombre": "Gestor",
+        "descripcion":"Empresa que presta servicios de recolección selectiva, almacenamiento/ clasificación y/o aprovechamiento de residuos de envases y empaques.",
+        "estado_id": 1
+    },
+    {
+        "nombre": "Transformador",
+        "descripcion":"empresa que recibe y transforma residuos de envases y empaques en materias primas u otros usos.",
+        "estado_id": 1
+    },
+    {
+        "nombre": "Prestador de servicios",
+        "descripcion":"Empresa cuyo giro principal es la prestación de servicios (p. ej., turismo, financieros, consultoría, TI, educación), sin producir, distibuir, fabricar, gestionar o trasnformar envases o empaques. Su relación con los envases o empaques es como generador interno y consumidor.",
+        "estado_id": 1
+    }   
+]

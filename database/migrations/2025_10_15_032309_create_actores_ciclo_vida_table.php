@@ -13,7 +13,8 @@ return new class extends Migration
     {
         Schema::create('actores_ciclo_vida', function (Blueprint $table) {
             $table->id();
-            $table->string('opcion', 45);
+            $table->string('nombre', 45);
+            $table->string('descripcion', 250);
             $table->foreignId('estado_id')->constrained('estados')->restrictOnDelete();
             $table->timestamps();
         });
