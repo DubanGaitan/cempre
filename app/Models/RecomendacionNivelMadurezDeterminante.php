@@ -6,7 +6,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class RecomendacionNivelMadurezDeterminante extends Model
 {
-    protected $table = 'recomendaciones_niveles_madurez_determinantes';
+    protected $table = 'recomendaciones_madurez_determinante';
 
     protected $fillable = [
         'nivel_madurez_id',

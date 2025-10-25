@@ -22,12 +22,14 @@ class DatabaseSeeder extends Seeder
         
         $this->call([
             DepartamentosSeeder::class,
-            CiudadesSeeder::class,
+            MunicipiosSeeder::class,
             EstadosSeeder::class,
             EsferasSeeder::class,
             DeterminantesSeeder::class,
             MaterialesUtilizadosSeeder::class,
+            ActoresCicloVida::class,
             NivelesMadurezSeeder::class,
+            RecomendacionesMadurezDeterminanteSeeder::class,
         ]);
     }
 }

@@ -1,0 +1,286 @@
+[
+    {
+        "nivel_madurez_id": 1,
+        "esfera_id": 1,
+        "determinante_id": 1,
+        "recomendacion": "Consolide liderazgo: mantenga LCSA y eco-design gates corporativos con revisión anual y verificación externa y actúe como ancla sectorial para difundir buenas prácticas."
+    },
+    {
+        "nivel_madurez_id": 1,
+        "esfera_id": 1,
+        "determinante_id": 2,
+        "recomendacion": "Consolide liderazgo: mantenga orquestar portafolios circulares multi-material con reglas de diseño corporativas y rutas inversas integradas al S&OP y actúe como ancla sectorial para difundir buenas prácticas."
+    },
+    {
+        "nivel_madurez_id": 1,
+        "esfera_id": 1,
+        "determinante_id": 3,
+        "recomendacion": "Consolide liderazgo: mantenga co-innovar con aliados para impactos neto-positivos y publicar resultados verificados por terceros y actúe como ancla sectorial para difundir buenas prácticas."
+    },
+    {
+        "nivel_madurez_id": 1,
+        "esfera_id": 2,
+        "determinante_id": 4,
+        "recomendacion": "Consolide liderazgo: mantenga liderar consorcios de cadena para estandarizar especificaciones y contratos de calidad con trazabilidad digital y actúe como ancla sectorial para difundir buenas prácticas."
+    },
+    {
+        "nivel_madurez_id": 1,
+        "esfera_id": 2,
+        "determinante_id": 5,
+        "recomendacion": "Consolide liderazgo: mantenga cocrear propósito sectorial con aliados (EPR, municipios, cooperativas) e influir en estándares del sector y actúe como ancla sectorial para difundir buenas prácticas."
+    },
+    {
+        "nivel_madurez_id": 1,
+        "esfera_id": 2,
+        "determinante_id": 6,
+        "recomendacion": "Consolide liderazgo: mantenga alinear KPIs con estándares sectoriales y reportes ESG; someterlos a verificación independiente y revisión por pares y actúe como ancla sectorial para difundir buenas prácticas."
+    },
+    {
+        "nivel_madurez_id": 1,
+        "esfera_id": 3,
+        "determinante_id": 7,
+        "recomendacion": "Consolide liderazgo: mantenga plataforma integrada con clientes para pronóstico de retornos y optimización de rutas inversas y actúe como ancla sectorial para difundir buenas prácticas."
+    },
+    {
+        "nivel_madurez_id": 1,
+        "esfera_id": 3,
+        "determinante_id": 8,
+        "recomendacion": "Consolide liderazgo: mantenga gestión avanzada de calidad y co-innovación abierta con hubs/academia; escalamiento regional y actúe como ancla sectorial para difundir buenas prácticas."
+    },
+    {
+        "nivel_madurez_id": 1,
+        "esfera_id": 3,
+        "determinante_id": 9,
+        "recomendacion": "Consolide liderazgo: mantenga portafolio optimizado con control de riesgos y monetización de atributos (certificados, créditos, eco-modulación) y actúe como ancla sectorial para difundir buenas prácticas."
+    },
+
+
+
+    {
+        "nivel_madurez_id": 2,
+        "esfera_id": 1,
+        "determinante_id": 1,
+        "recomendacion": "Cierre la brecha hacia cadena integrada: mantener LCSA y eco-design gates corporativos con revisión anual y verificación externa; publique resultados y comparta aprendizajes."
+    },
+    {
+        "nivel_madurez_id": 2,
+        "esfera_id": 1,
+        "determinante_id": 2,
+        "recomendacion": "Cierre la brecha hacia cadena integrada: orquestar portafolios circulares multi-material con reglas de diseño corporativas y rutas inversas integradas al S&OP; publique resultados y comparta aprendizajes."
+    },
+    {
+        "nivel_madurez_id": 2,
+        "esfera_id": 1,
+        "determinante_id": 3,
+        "recomendacion": "Cierre la brecha hacia cadena integrada: co-innovar con aliados para impactos neto-positivos y publicar resultados verificados por terceros; publique resultados y comparta aprendizajes."
+    },
+    {
+        "nivel_madurez_id": 2,
+        "esfera_id": 2,
+        "determinante_id": 4,
+        "recomendacion": "Cierre la brecha hacia cadena integrada: liderar consorcios de cadena para estandarizar especificaciones y contratos de calidad con trazabilidad digital; publique resultados y comparta aprendizajes."
+    },
+    {
+        "nivel_madurez_id": 2,
+        "esfera_id": 2,
+        "determinante_id": 5,
+        "recomendacion": "Cierre la brecha hacia cadena integrada: cocrear propósito sectorial con aliados (EPR, municipios, cooperativas) e influir en estándares del sector; publique resultados y comparta aprendizajes."
+    },
+    {
+        "nivel_madurez_id": 2,
+        "esfera_id": 2,
+        "determinante_id": 6,
+        "recomendacion": "Cierre la brecha hacia cadena integrada: alinear KPIs con estándares sectoriales y reportes ESG; someterlos a verificación independiente y revisión por pares; publique resultados y comparta aprendizajes."
+    },
+    {
+        "nivel_madurez_id": 2,
+        "esfera_id": 3,
+        "determinante_id": 7,
+        "recomendacion": "Cierre la brecha hacia cadena integrada: plataforma integrada con clientes para pronóstico de retornos y optimización de rutas inversas; publique resultados y comparta aprendizajes."
+    },
+    {
+        "nivel_madurez_id": 2,
+        "esfera_id": 3,
+        "determinante_id": 8,
+        "recomendacion": "Cierre la brecha hacia cadena integrada: gestión avanzada de calidad y co-innovación abierta con hubs/academia; escalamiento regional; publique resultados y comparta aprendizajes."
+    },
+    {
+        "nivel_madurez_id": 2,
+        "esfera_id": 3,
+        "determinante_id": 9,
+        "recomendacion": "Cierre la brecha hacia cadena integrada: portafolio optimizado con control de riesgos y monetización de atributos (certificados, créditos, eco-modulación); publique resultados y comparta aprendizajes."
+    },
+
+
+
+    {
+        "nivel_madurez_id": 3,
+        "esfera_id": 1,
+        "determinante_id": 1,
+        "recomendacion": "Escale y estandarice: automatizar checks de eco-diseño en el PLM y validar con recicladores locales; incluir criterios de desensamble en especificaciones; incorpórelo en procesos y contratos clave."
+    },
+    {
+        "nivel_madurez_id": 3,
+        "esfera_id": 1,
+        "determinante_id": 2,
+        "recomendacion": "Escale y estandarice: diversificar estrategias por familia de productos y territorios; incluir diseño modular y acuerdos de devolución con retailers; incorpórelo en procesos y contratos clave."
+    },
+    {
+        "nivel_madurez_id": 3,
+        "esfera_id": 1,
+        "determinante_id": 3,
+        "recomendacion": "Escale y estandarice: integrar métricas de LCSA y due diligence social en contratos; auditorías de tercera parte y reporte público alineado a GRI/ESG; incorpórelo en procesos y contratos clave."
+    },
+    {
+        "nivel_madurez_id": 3,
+        "esfera_id": 2,
+        "determinante_id": 4,
+        "recomendacion": "Escale y estandarice: crear un comité interfuncional de entorno y ajustar precios/contratos a la volatilidad de secundarios; incorpórelo en procesos y contratos clave."
+    },
+    {
+        "nivel_madurez_id": 3,
+        "esfera_id": 2,
+        "determinante_id": 5,
+        "recomendacion": "Escale y estandarice: vincular el propósito a incentivos de liderazgo y evaluación de desempeño; integrarlo en gobierno corporativo; incorpórelo en procesos y contratos clave."
+    },
+    {
+        "nivel_madurez_id": 3,
+        "esfera_id": 2,
+        "determinante_id": 6,
+        "recomendacion": "Escale y estandarice: vincular KPIs a bonos/incentivos y contratos con aliados; auditorías externas anuales de datos; incorpórelo en procesos y contratos clave."
+    },
+    {
+        "nivel_madurez_id": 3,
+        "esfera_id": 3,
+        "determinante_id": 7,
+        "recomendacion": "Escale y estandarice: personalizar propuestas (PaaS, refill corporativo); canales de postventa con incentivos por retorno; incorpórelo en procesos y contratos clave."
+    },
+    {
+        "nivel_madurez_id": 3,
+        "esfera_id": 3,
+        "determinante_id": 8,
+        "recomendacion": "Escale y estandarice: co-desarrollar materiales con proveedores y acuerdos de suministro RC/biobasado a largo plazo; incorpórelo en procesos y contratos clave."
+    },
+    {
+        "nivel_madurez_id": 3,
+        "esfera_id": 3,
+        "determinante_id": 9,
+        "recomendacion": "Escale y estandarice: financiar CAPEX con instrumentos verdes y coberturas de precio; medir margen incremental por circularidad; incorpórelo en procesos y contratos clave."
+    },
+
+
+
+    {
+        "nivel_madurez_id": 4,
+        "esfera_id": 1,
+        "determinante_id": 1,
+        "recomendacion": "Estructure y ejecute un plan de 6–12 meses para implementar LCA comparativas para decisiones de diseño; establecer umbrales de reciclabilidad y guías de diseño internas; formalice roles y recursos."
+    },
+    {
+        "nivel_madurez_id": 4,
+        "esfera_id": 1,
+        "determinante_id": 2,
+        "recomendacion": "Estructure y ejecute un plan de 6–12 meses para escalar la estrategia priorizada con estándares de calidad posconsumo, contratos con MRF/recicladores y controles de contaminación; formalice roles y recursos."
+    },
+    {
+        "nivel_madurez_id": 4,
+        "esfera_id": 1,
+        "determinante_id": 3,
+        "recomendacion": "Estructure y ejecute un plan de 6–12 meses para formalizar un plan de mejora con metas anuales y presupuestos; incluir compras responsables y criterios sociales en proveedores; formalice roles y recursos."
+    },
+    {
+        "nivel_madurez_id": 4,
+        "esfera_id": 2,
+        "determinante_id": 4,
+        "recomendacion": "Estructure y ejecute un plan de 6–12 meses para suscribir convenios de calidad y abastecimiento con recicladores/MRF; definir umbrales de MPR por material; formalice roles y recursos."
+    },
+    {
+        "nivel_madurez_id": 4,
+        "esfera_id": 2,
+        "determinante_id": 5,
+        "recomendacion": "Estructure y ejecute un plan de 6–12 meses para alinear el propósito con el plan estratégico y el portafolio; comunicarlo a toda la organización y a proveedores; formalice roles y recursos."
+    },
+    {
+        "nivel_madurez_id": 4,
+        "esfera_id": 2,
+        "determinante_id": 6,
+        "recomendacion": "Estructure y ejecute un plan de 6–12 meses para publicar un roadmap con metas anuales y tableros de control; auditar datos de retorno/reciclaje; formalice roles y recursos."
+    },
+    {
+        "nivel_madurez_id": 4,
+        "esfera_id": 3,
+        "determinante_id": 7,
+        "recomendacion": "Estructure y ejecute un plan de 6–12 meses para integrar logística inversa en contratos con clientes y retailers; SLAs de retorno y limpieza; formalice roles y recursos."
+    },
+    {
+        "nivel_madurez_id": 4,
+        "esfera_id": 3,
+        "determinante_id": 8,
+        "recomendacion": "Estructure y ejecute un plan de 6–12 meses para certificar procesos (p.ej., EuCertPlast/análogo) y acuerdos de calidad con MRF; trazabilidad por lotes; formalice roles y recursos."
+    },
+    {
+        "nivel_madurez_id": 4,
+        "esfera_id": 3,
+        "determinante_id": 9,
+        "recomendacion": "Estructure y ejecute un plan de 6–12 meses para implementar pricing que reconozca atributos circulares; contratos con cláusulas de ajuste por MPR; formalice roles y recursos."
+    },
+
+
+
+    {
+        "nivel_madurez_id": 4,
+        "esfera_id": 1,
+        "determinante_id": 1,
+        "recomendacion": "Inicie por elaborar fichas de reciclabilidad por SKU y una LCA de cribado para el top-5 del portafolio y sensibilice al equipo sobre enfoque de ciclo de vida (LCA, reciclabilidad, diseño para desensamble)."
+    },
+    {
+        "nivel_madurez_id": 4,
+        "esfera_id": 1,
+        "determinante_id": 2,
+        "recomendacion": "Inicie por priorizar 1–2 estrategias viables según material y mercado (p.ej., retornabilidad para vidrio/PET o DfR para PP/PE) y ejecutar pilotos y sensibilice al equipo sobre estrategias circulares (reutilización/retornabilidad, refill, DfR, remanufactura, insumos reciclados/biobasados)."
+    },
+    {
+        "nivel_madurez_id": 4,
+        "esfera_id": 1,
+        "determinante_id": 3,
+        "recomendacion": "Inicie por realizar un mapeo de impactos y brechas con línea base verificable (huella, seguridad y condiciones laborales) y sensibilice al equipo sobre triple impacto (ambiental, social y económico) a lo largo de la cadena E&E."
+    },
+    {
+        "nivel_madurez_id": 4,
+        "esfera_id": 2,
+        "determinante_id": 4,
+        "recomendacion": "Inicie por instalar radar regulatorio/mercado trimestral y mapa de actores locales (cooperativas, MRF, recicladores) y sensibilice al equipo sobre monitoreo de entorno (EPR, mercados de secundarios, tecnología, logística)."
+    },
+    {
+        "nivel_madurez_id": 4,
+        "esfera_id": 2,
+        "determinante_id": 5,
+        "recomendacion": "Inicie por declarar un propósito que vincule circularidad con reducción de riesgos/compliance y valor al cliente y sensibilice al equipo sobre propósito empresarial alineado a circularidad y bien común."
+    },
+    {
+        "nivel_madurez_id": 4,
+        "esfera_id": 2,
+        "determinante_id": 6,
+        "recomendacion": "Inicie por definir 3–5 objetivos SMART (p.ej., % RC, tasa de retorno, % reciclabilidad) con línea base y responsables y sensibilice al equipo sobre objetivos/KPIs circulares auditable."
+    },
+    {
+        "nivel_madurez_id": 4,
+        "esfera_id": 3,
+        "determinante_id": 7,
+        "recomendacion": "Inicie por diseñar oferta mínima viable (p.ej., programas de retorno en puntos de venta) y acuerdos de transporte inverso y sensibilice al equipo sobre propuesta/entrega de valor circular al cliente (servicios, logística inversa, acuerdos comerciales)."
+    },
+    {
+        "nivel_madurez_id": 4,
+        "esfera_id": 3,
+        "determinante_id": 8,
+        "recomendacion": "Inicie por cerrar brechas de proceso (lavado/clasificación) con aliados; capacitar en control de contaminación y sensibilice al equipo sobre capacidad interna y red de aliados para materializar la propuesta (calidad, servicio, I+D, certificaciones)."
+    },
+    {
+        "nivel_madurez_id": 4,
+        "esfera_id": 3,
+        "determinante_id": 9,
+        "recomendacion": "Inicie por construir business case por SKU con TCO y sensibilidad a precios de secundarios/EPR y sensibilice al equipo sobre viabilidad financiera del modelo (costos, ingresos, riesgos, tasas EPR)."
+    }
+
+
+]

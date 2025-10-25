@@ -14,7 +14,7 @@ class ActoresCicloVida extends Seeder
      */
     public function run(): void
     {
-        $json = File::get(database_path('data/$actores_ciclo_vida.json'));
+        $json = File::get(database_path('data/actores_ciclo_vida.json'));
         $actores_ciclo_vida = json_decode($json, true);
 
         foreach ($actores_ciclo_vida as $actor_ciclo_vida) {
